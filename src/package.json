@@ -19,7 +19,7 @@
                       "ueberDB"                 : ">=0.2.9",
                       "express"                 : ">3.1.0 <3.9.0",
                       "async"                   : "0.1.x",
-                      "connect"                 : "2.7.x",
+                      "connect"                 : "3.7.x",
                       "clean-css"               : "0.3.2",
                       "uglify-js"               : "1.2.5",
                       "formidable"              : "1.0.9",
